@@ -1,5 +1,5 @@
 # Sonic v2.0.0
-
+This repository is used to give some information about the project, code is currently private.
 
 # Developers
 Chinese_Marc#5516 - [GitHub Profile](https://github.com/ChineseMarc)
