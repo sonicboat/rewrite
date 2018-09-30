@@ -1,2 +1,2 @@
-# rewrite
-Rewrite of Sonic in JavaScript, using discord.js
+# Sonic v2.0.0
+Implemented in JavaScript using discord.js
