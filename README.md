@@ -2,5 +2,6 @@
 
 
 # Developers
-[Chinese_Marc#5516](https://github.com/ChineseMarc)
-[andrexyy#0666](https://github.com/andrexyy)
+Chinese_Marc#5516 - [GitHub Profile](https://github.com/ChineseMarc)
+
+andrexyy#0666 - [GitHub Profile](https://github.com/andrexyy)
